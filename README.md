@@ -27,6 +27,8 @@ In order to run the project locally for development and testing, ensure that dep
 
 The application is an e-commerce platform designed initially with Context API before being refactored to work with Redux store. The application is a SPA site and the initial state is defined with the reducers folder. The aim of the project was to familiarize with the Redux documentation and apply it to the e-commerce application.
 
+Commits for the redux refactoring can be found on the `feature/redux branch`
+
 You can find the deployed link and the repository link below:
 
 Deployed Link: [Deployed Link](https://thawing-badlands-46377.herokuapp.com/)
